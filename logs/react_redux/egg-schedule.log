@@ -1,0 +1,12 @@
+2020-05-16 19:49:53,706 INFO 54152 [Timer] /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 31206296ms at 2020-05-17 04:30:00.002
+2020-05-16 19:49:53,706 INFO 54152 [Timer] /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 15006294ms at 2020-05-17 00:00:00.000
+2020-05-16 19:49:53,707 INFO 54152 [Timer] /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 15007294ms at 2020-05-17 00:00:01.001
+2020-05-16 19:49:53,589 INFO 54153 [egg-schedule]: register schedule /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-16 19:49:53,589 INFO 54153 [egg-schedule]: register schedule /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-16 19:49:53,589 INFO 54153 [egg-schedule]: register schedule /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-16 19:52:14,091 INFO 54180 [Timer] /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 31065911ms at 2020-05-17 04:30:00.002
+2020-05-16 19:52:14,091 INFO 54180 [Timer] /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 14865909ms at 2020-05-17 00:00:00.000
+2020-05-16 19:52:14,091 INFO 54180 [Timer] /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 14866909ms at 2020-05-17 00:00:01.000
+2020-05-16 19:52:13,987 INFO 54181 [egg-schedule]: register schedule /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-16 19:52:13,987 INFO 54181 [egg-schedule]: register schedule /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-16 19:52:13,987 INFO 54181 [egg-schedule]: register schedule /Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

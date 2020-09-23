@@ -1,0 +1,40 @@
+2020-05-16 19:49:52,952 INFO 54152 [egg:logger] init all loggers with options: {"dir":"/Users/bo.yang/Mylearning/Node/egg-react-codereview/logs/react_redux","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react_redux-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-05-16 19:49:52,961 INFO 54152 [egg:core] dump config after load, 4ms
+2020-05-16 19:49:53,003 INFO 54152 [egg-watcher] Start watching: ["/Users/bo.yang/Mylearning/Node/egg-react-codereview/app","/Users/bo.yang/Mylearning/Node/egg-react-codereview/config","/Users/bo.yang/Mylearning/Node/egg-react-codereview/mocks","/Users/bo.yang/Mylearning/Node/egg-react-codereview/mocks_proxy","/Users/bo.yang/Mylearning/Node/egg-react-codereview/app.js"]
+2020-05-16 19:49:53,003 INFO 54152 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/app"
+2020-05-16 19:49:53,004 INFO 54152 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/config"
+2020-05-16 19:49:53,004 INFO 54152 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/mocks"
+2020-05-16 19:49:53,004 INFO 54152 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/mocks_proxy"
+2020-05-16 19:49:53,004 INFO 54152 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/app.js"
+2020-05-16 19:49:53,004 INFO 54152 [egg-watcher:agent] watcher start success
+2020-05-16 19:49:53,008 INFO 54152 [egg:core] dump config after ready, 2ms
+2020-05-16 19:52:13,403 INFO 54180 [egg:logger] init all loggers with options: {"dir":"/Users/bo.yang/Mylearning/Node/egg-react-codereview/logs/react_redux","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"react_redux-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-05-16 19:52:13,412 INFO 54180 [egg:core] dump config after load, 3ms
+2020-05-16 19:52:13,444 INFO 54180 [egg-watcher] Start watching: ["/Users/bo.yang/Mylearning/Node/egg-react-codereview/app","/Users/bo.yang/Mylearning/Node/egg-react-codereview/config","/Users/bo.yang/Mylearning/Node/egg-react-codereview/mocks","/Users/bo.yang/Mylearning/Node/egg-react-codereview/mocks_proxy","/Users/bo.yang/Mylearning/Node/egg-react-codereview/app.js"]
+2020-05-16 19:52:13,444 INFO 54180 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/app"
+2020-05-16 19:52:13,444 INFO 54180 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/config"
+2020-05-16 19:52:13,444 INFO 54180 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/mocks"
+2020-05-16 19:52:13,444 INFO 54180 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/mocks_proxy"
+2020-05-16 19:52:13,444 INFO 54180 [egg-watcher] Start watching: "/Users/bo.yang/Mylearning/Node/egg-react-codereview/app.js"
+2020-05-16 19:52:13,444 INFO 54180 [egg-watcher:agent] watcher start success
+2020-05-16 19:52:13,453 INFO 54180 [egg:core] dump config after ready, 3ms
+2020-05-16 22:34:05,563 ERROR 54180 nodejs.ClusterClientNoResponseError: client no response in 289595ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 54180
+hostname: boyangdembp
+
+2020-05-16 22:41:56,617 ERROR 54180 nodejs.ClusterClientNoResponseError: client no response in 450964ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/bo.yang/Mylearning/Node/egg-react-codereview/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 54180
+hostname: boyangdembp
+
